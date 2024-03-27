@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-primary {
+    @apply bg-white border-4 border-black;
+  }
+  .border-primary {
+    @apply border-4 border-black;
+  }
+  .card {
+    @apply w-[450px];
+  }
+}
