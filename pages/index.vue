@@ -1,6 +1,6 @@
 <template>
   <section
-    class="intro bg-neutral-800 px-32 py-10 grid grid-cols-1 lg:grid-cols-2"
+    class="intro bg-neutral-800 px-10 sm:px-32 py-10 grid grid-cols-1 lg:grid-cols-2"
   >
     <div class="my-auto flex flex-col gap-12">
       <div class="text-white font-bold text-4xl text-center lg:text-start">
@@ -15,14 +15,17 @@
         </p>
       </div>
       <div
-        class="font-medium flex gap-8 items-center justify-center lg:justify-start"
+        class="font-medium block sm:flex gap-8 items-center justify-center lg:justify-start"
       >
-        <button
-          class="rounded-xl btn-primary text-lg w-48 text-center px-8 py-2"
-        >
-          See Projects
-        </button>
-        <div class="flex items-center gap-4">
+        <div class="flex justify-center items-center">
+          <button
+            class="rounded-xl btn-primary text-lg w-48 text-center px-8 py-2"
+          >
+            See Projects
+          </button>
+        </div>
+
+        <div class="mt-10 sm:mt-0 flex items-center gap-4 justify-center">
           <a href="">
             <img src="/img/linkedin.png" alt="" />
           </a>
@@ -50,7 +53,7 @@
     <p class="text-3xl font-bold">Dribbble</p>
     <p class="text-3xl font-bold">Upwork</p>
   </div>
-  <section class="completed-project px-28">
+  <section class="completed-project px-10 sm:px-28">
     <div class="text-4xl font-bold text-center py-10">
       Best completed project
     </div>
@@ -64,7 +67,7 @@
       <CardProject />
     </div>
   </section>
-  <section class="contact px-24">
+  <section class="contact px-10 sm:px-24">
     <div class="text-4xl font-bold text-center py-10">
       That's all about me, feel free to say hi!
     </div>
@@ -73,10 +76,8 @@
       to 5pm. I'm very willing to work with you.
     </div>
     <div class="py-10 text-center">
-      <button
-        class="rounded-xl btn-primary text-lg w-auto text-center px-8 py-2"
-      >
-        <span class="flex gap-4 items-center font-medium text-xl">
+      <!-- <button class="rounded-xl btn-primary text-lg text-center px-8 py-2">
+        <div class="flex gap-4 items-center font-medium text-xl">
           <p>wemphysp@gmail.com</p>
           <svg
             class="w-10 stroke-[2px]"
@@ -94,8 +95,8 @@
               d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"
             ></path>
           </svg>
-        </span>
-      </button>
+        </div>
+      </button> -->
     </div>
   </section>
 </template>
