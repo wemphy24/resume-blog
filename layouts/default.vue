@@ -6,16 +6,24 @@
       <NuxtLink class="text-3xl font-bold" to="/">Wemphy Stephian</NuxtLink>
       <ul class="mt-10 lg:mt-0 flex gap-6 items-center justify-center">
         <li>
-          <NuxtLink class="font-semibold text-xl" to="/">Home</NuxtLink>
+          <NuxtLink class="font-semibold text-xl hover:text-neutral-600" to="/"
+            >Home</NuxtLink
+          >
         </li>
         <li>
-          <NuxtLink class="font-semibold text-xl" to="/">Projects</NuxtLink>
+          <NuxtLink
+            class="font-semibold text-xl hover:text-neutral-600"
+            to="/projects"
+            >Projects</NuxtLink
+          >
         </li>
+
         <li>
-          <NuxtLink class="font-semibold text-xl" to="/">Contact</NuxtLink>
-        </li>
-        <li>
-          <NuxtLink class="font-semibold text-xl" to="/about">About</NuxtLink>
+          <NuxtLink
+            class="font-semibold text-xl hover:text-neutral-600"
+            to="/about"
+            >About</NuxtLink
+          >
         </li>
       </ul>
     </nav>
@@ -32,22 +40,24 @@
       >
       <ul class="mt-10 lg:mt-0 flex gap-6 items-center justify-center">
         <li>
-          <NuxtLink class="font-semibold text-xl text-white" to="/"
+          <NuxtLink
+            class="font-semibold text-xl text-white hover:text-neutral-600"
+            to="/"
             >Home</NuxtLink
           >
         </li>
         <li>
-          <NuxtLink class="font-semibold text-xl text-white" to="/"
+          <NuxtLink
+            class="font-semibold text-xl text-white hover:text-neutral-600"
+            to="/"
             >Projects</NuxtLink
           >
         </li>
+
         <li>
-          <NuxtLink class="font-semibold text-xl text-white" to="/"
-            >Contact</NuxtLink
-          >
-        </li>
-        <li>
-          <NuxtLink class="font-semibold text-xl text-white" to="/about"
+          <NuxtLink
+            class="font-semibold text-xl text-white hover:text-neutral-600"
+            to="/about"
             >About</NuxtLink
           >
         </li>

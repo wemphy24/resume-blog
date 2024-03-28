@@ -18,11 +18,12 @@
         class="font-medium block sm:flex gap-8 items-center justify-center lg:justify-start"
       >
         <div class="flex justify-center items-center">
-          <button
-            class="rounded-xl btn-primary text-lg w-48 text-center px-8 py-2"
+          <NuxtLink
+            to="/projects"
+            class="rounded-xl btn-primary text-lg w-48 text-center px-8 py-2 hover:scale-105 hover:-translate-x-0 hover:duration-500"
           >
             See Projects
-          </button>
+          </NuxtLink>
         </div>
 
         <div class="mt-10 sm:mt-0 flex items-center gap-4 justify-center">
@@ -41,7 +42,7 @@
         </div>
       </div>
     </div>
-    <div class="flex justify-center mt-10 lg:flex-row-reverse lg:mt-0">
+    <div class="flex justify-center mt-10 lg:flex lg:justify-end lg:mt-0">
       <img class="w-auto" src="/img/menu.png" alt="" />
     </div>
   </section>
@@ -53,12 +54,12 @@
     <p class="text-3xl font-bold">Dribbble</p>
     <p class="text-3xl font-bold">Upwork</p>
   </div>
-  <section class="completed-project px-10 sm:px-28">
+  <section class="completed-project px-10 mt-10 sm:px-28">
     <div class="text-4xl font-bold text-center py-10">
-      Best completed project
+      Best completed projects
     </div>
     <div class="mx-auto text-2xl font-medium text-center">
-      Choose my work projects
+      Choose my work project
     </div>
     <div class="flex flex-wrap items-center justify-center gap-8 py-10">
       <CardProject />
@@ -76,7 +77,9 @@
       to 5pm. I'm very willing to work with you.
     </div>
     <div class="py-10 text-center">
-      <!-- <button class="rounded-xl btn-primary text-lg text-center px-8 py-2">
+      <button
+        class="rounded-xl btn-primary text-lg text-center py-2 px-2 sm:px-8 hover:scale-105 hover:-translate-x-0 hover:duration-500"
+      >
         <div class="flex gap-4 items-center font-medium text-xl">
           <p>wemphysp@gmail.com</p>
           <svg
@@ -96,11 +99,15 @@
             ></path>
           </svg>
         </div>
-      </button> -->
+      </button>
     </div>
   </section>
 </template>
 
-<script setup></script>
+<script setup>
+useHead({
+  title: `Wemphy Stephian - Home`,
+});
+</script>
 
 <style></style>
