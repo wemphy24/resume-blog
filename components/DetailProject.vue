@@ -8,16 +8,8 @@
     <div class="text-4xl font-bold">Circle Moviez</div>
     <div class="font-medium text-xl my-2">Redesign Movie Streaming App</div>
     <div class="flex items-center justify-center gap-4">
-      <div
-        class="link bg-neutral-800 rounded-xl w-32 p-2 text-sm text-center text-white"
-      >
-        UI Designer
-      </div>
-      <div
-        class="link bg-neutral-800 rounded-xl w-32 p-2 text-sm text-center text-white"
-      >
-        Web Design
-      </div>
+      <TechStack title="UI Designer" />
+      <TechStack title="Web Design" />
     </div>
   </div>
   <div class="description-container">
