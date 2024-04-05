@@ -62,10 +62,34 @@
       Choose my work project
     </div>
     <div class="flex flex-wrap items-center justify-center gap-8 py-10">
-      <CardProject />
-      <CardProject />
-      <CardProject />
-      <CardProject />
+      <CardProject
+        linkProject="/projects/circlemoviez"
+        imgPreview="/img/cmpreview.jpg"
+        title="Redesign Movie Streaming App"
+        stackTitleOne="UI Designer"
+        stackTitleTwo="Mobile App"
+      />
+      <CardProject
+        linkProject="/projects/racingparts"
+        imgPreview="/img/rppreview.jpg"
+        title="Racing Parts Landing Page"
+        stackTitleOne="UI Designer"
+        stackTitleTwo="Web Design"
+      />
+      <CardProject
+        linkProject="/projects/simgroup"
+        imgPreview="/img/sgpreview.jpg"
+        title="Manufacturing Information System"
+        stackTitleOne="Web App"
+        stackTitleTwo="Laravel"
+      />
+      <CardProject
+        linkProject="/projects/influencer"
+        imgPreview="/img/impreview.jpg"
+        title="Concept Influencer Market"
+        stackTitleOne="UI Designer"
+        stackTitleTwo="Mobile App"
+      />
     </div>
   </section>
   <section class="contact px-10 sm:px-24">
