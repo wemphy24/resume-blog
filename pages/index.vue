@@ -43,7 +43,7 @@
       </div>
     </div>
     <div class="flex justify-center mt-10 lg:flex lg:justify-end lg:mt-0">
-      <img class="w-auto" src="/img/menu.png" alt="" />
+      <img class="w-auto" src="/img/profile.png" alt="" />
     </div>
   </section>
   <div
