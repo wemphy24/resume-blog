@@ -17,7 +17,7 @@
         <button
           class="btn-primary px-8 text-lg py-2 rounded-xl text-center hover:scale-105 hover:-translate-x-0 hover:duration-500 font-medium"
         >
-          See My Resume
+          <a href="/pdf/wemphy-resume.pdf" download>See My Resume</a>
         </button>
       </div>
     </div>
