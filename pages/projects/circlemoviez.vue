@@ -4,6 +4,8 @@
       imgProject="/img/cmproject.jpg"
       titleProject="Circle Moviez"
       subTitleProject="Redesign Movie Streaming App"
+      titleStackOne="UI Design"
+      titleStackTwo="Mobile App"
       introProject="Circle Moviez is a movie streaming application that offers a variety of
       cinema films, variety shows, documentaries, anime, and more. Circle
       Moviez provides subscription packages ranging from one month to one

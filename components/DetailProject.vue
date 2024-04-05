@@ -8,8 +8,8 @@
     <div class="text-4xl font-bold">{{ titleProject }}</div>
     <div class="font-medium text-xl my-2">{{ subTitleProject }}</div>
     <div class="flex items-center justify-center gap-4">
-      <TechStack title="UI Designer" />
-      <TechStack title="Web Design" />
+      <TechStack :title="titleStackOne" />
+      <TechStack :title="titleStackTwo" />
     </div>
   </div>
   <div class="description-container">
@@ -74,6 +74,8 @@ const props = defineProps({
   imgProject: String,
   titleProject: String,
   subTitleProject: String,
+  titleStackOne: String,
+  titleStackTwo: String,
   introProject: String,
   roleProject: String,
   problemProject: String,

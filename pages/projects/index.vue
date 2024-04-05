@@ -9,14 +9,14 @@
         linkProject="/projects/circlemoviez"
         imgPreview="/img/cmpreview.jpg"
         title="Redesign Movie Streaming App"
-        stackTitleOne="UI Designer"
+        stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
       <CardProject
         linkProject="/projects/racingparts"
         imgPreview="/img/rppreview.jpg"
         title="Racing Parts Landing Page"
-        stackTitleOne="UI Designer"
+        stackTitleOne="UI Design"
         stackTitleTwo="Web Design"
       />
       <CardProject
@@ -30,22 +30,36 @@
         linkProject="/projects/influencer"
         imgPreview="/img/impreview.jpg"
         title="Concept Influencer Market"
-        stackTitleOne="UI Designer"
+        stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
       <CardProject
         linkProject="/projects/gamerz"
         imgPreview="/img/gpreview.jpg"
         title="Redesign Gaming Platform App"
-        stackTitleOne="UI Designer"
+        stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
       <CardProject
         linkProject="/projects/konnaku"
         imgPreview="/img/kpreview.jpg"
         title="Coffeeshop Landing Page"
-        stackTitleOne="UI Designer"
+        stackTitleOne="UI Design"
         stackTitleTwo="Web Design"
+      />
+      <CardProject
+        linkProject="/projects/gabsi"
+        imgPreview="/img/gjpreview.jpg"
+        title="GABSI Jatim Information System Website"
+        stackTitleOne="Web App"
+        stackTitleTwo="Laravel"
+      />
+      <CardProject
+        linkProject="/projects/kencan"
+        imgPreview="/img/dapreview.jpg"
+        title="Concept Dating App"
+        stackTitleOne="UI Design"
+        stackTitleTwo="Mobile App"
       />
     </div>
   </section>
