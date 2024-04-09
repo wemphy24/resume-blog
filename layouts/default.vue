@@ -49,7 +49,7 @@
         <li>
           <NuxtLink
             class="font-semibold text-xl text-white hover:text-neutral-600"
-            to="/"
+            to="/projects"
             >Projects</NuxtLink
           >
         </li>
