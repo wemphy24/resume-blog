@@ -54,14 +54,16 @@
             />
             <div>
               <div class="font-medium text-center">{{ titleProject }}</div>
-              <div class="font-light text-sm text-center">{{ linkFigma }}</div>
+              <div class="font-light text-sm text-center">www.figma.com</div>
             </div>
-            <button
-              class="flex items-center gap-4 py-2 px-4 bg-neutral-800 rounded-xl mx-auto mt-2 md:mx-0 md:mt-0 hover:scale-105 hover:-translate-x-0 hover:duration-500"
-            >
-              <img src="/img/figma.png" alt="" />
-              <p class="font-medium text-white">Open in Figma</p>
-            </button>
+            <a :href="linkFigma" target="_blank">
+              <button
+                class="flex items-center gap-4 py-2 px-4 bg-neutral-800 rounded-xl mx-auto mt-2 md:mx-0 md:mt-0 hover:scale-105 hover:-translate-x-0 hover:duration-500"
+              >
+                <img src="/img/figma.png" alt="" />
+                <p class="font-medium text-white">Open in Figma</p>
+              </button>
+            </a>
           </div>
         </div>
       </div>
