@@ -13,7 +13,7 @@
       imgTwo="/img/im2.jpg"
       imgThree="/img/im3.jpg"
       imgFour="/img/im4.jpg"
-      linkFigma="www.figma.com"
+      linkFigma="https://www.figma.com/proto/H4HzGXRbt1XyjFBU3TARpZ/Influencer-Market?page-id=0%3A1&type=design&node-id=1-326&viewport=455%2C626%2C0.59&t=8eXIIzcLtz18VnQP-1&scaling=min-zoom&starting-point-node-id=1%3A326&mode=design"
     />
   </section>
 </template>

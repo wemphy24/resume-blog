@@ -13,7 +13,7 @@
       imgTwo="/img/k2.jpg"
       imgThree="/img/k3.jpg"
       imgFour="/img/k4.jpg"
-      linkFigma="www.figma.com"
+      linkFigma="https://www.figma.com/proto/pUk7MYMRr2UQuPrQyBdFa9/Konnaku?page-id=0%3A1&type=design&node-id=1-5&viewport=417%2C718%2C0.3&t=e13poD7N2bxHUVLL-1&scaling=min-zoom&starting-point-node-id=1%3A5&mode=design"
     />
   </section>
 </template>

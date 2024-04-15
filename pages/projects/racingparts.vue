@@ -13,7 +13,7 @@
       imgTwo="/img/rp2.jpg"
       imgThree="/img/rp3.jpg"
       imgFour="/img/rp4.jpg"
-      linkFigma="www.figma.com"
+      linkFigma="https://www.figma.com/proto/O0rKLpTy7T2xeUxK0s3Xj9/RacingPart?page-id=505%3A69&type=design&node-id=982-45&viewport=634%2C493%2C0.51&t=ZCoI8SiiWyq66KYv-1&scaling=min-zoom&starting-point-node-id=982%3A45&mode=design"
     />
   </section>
 </template>

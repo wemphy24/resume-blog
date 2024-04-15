@@ -27,10 +27,10 @@
         </div>
 
         <div class="mt-10 sm:mt-0 flex items-center gap-4 justify-center">
-          <a href="">
+          <a href="https://www.linkedin.com/in/wemphy-stephian/">
             <img src="/img/linkedin.png" alt="" />
           </a>
-          <a href="">
+          <a href="https://www.instagram.com/_wemphy_/">
             <img src="/img/instagram.png" alt="" />
           </a>
           <a href="">
@@ -97,7 +97,7 @@
       That's all about me, feel free to say hi!
     </div>
     <div class="mx-auto text-2xl font-medium text-center">
-      Pour your ideas into my email or can discuss with me. I am available 7pm
+      Pour your ideas into my email or can discuss with me. I am available 7am
       to 5pm. I'm very willing to work with you.
     </div>
     <div class="py-10 text-center">

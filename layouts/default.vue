@@ -63,10 +63,10 @@
         </li>
       </ul>
       <div class="mt-10 lg:mt-0 flex gap-4 items-center justify-center">
-        <a href="">
+        <a href="https://www.linkedin.com/in/wemphy-stephian/">
           <img src="/img/linkedin.png" alt="" />
         </a>
-        <a href="">
+        <a href="https://www.instagram.com/_wemphy_/">
           <img src="/img/instagram.png" alt="" />
         </a>
         <a href="">

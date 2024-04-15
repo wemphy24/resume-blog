@@ -13,7 +13,7 @@
       imgTwo="/img/g2.jpg"
       imgThree="/img/g3.jpg"
       imgFour="/img/g4.jpg"
-      linkFigma="www.figma.com"
+      linkFigma="https://www.figma.com/proto/oqXdE6PJamjEWH3fqV7slP/Gaming-Community-App?page-id=170%3A2&type=design&node-id=170-3&viewport=643%2C767%2C0.28&t=EAFcU0o0tDNK12bW-1&scaling=min-zoom&starting-point-node-id=170%3A1346&mode=design"
     />
   </section>
 </template>

@@ -23,7 +23,7 @@
       imgTwo="/img/cm2.jpg"
       imgThree="/img/cm3.jpg"
       imgFour="/img/cm4.jpg"
-      linkFigma="www.figma.com"
+      linkFigma="https://www.figma.com/proto/28N1cIvzrzAc28kY0p1BSx/Movie-Streaming-App?page-id=1%3A3&type=design&node-id=1-171&viewport=513%2C499%2C0.19&t=OPW7i5y9dy14si5f-1&scaling=min-zoom&starting-point-node-id=1%3A20&mode=design"
     />
   </section>
 </template>

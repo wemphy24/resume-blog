@@ -13,7 +13,7 @@
       imgTwo="/img/da2.jpg"
       imgThree="/img/da3.jpg"
       imgFour="/img/da4.jpg"
-      linkFigma="www.figma.com"
+      linkFigma="https://www.figma.com/proto/NJGIRlxvHz6VhvpK4Npzha/Dating-App?page-id=0%3A1&type=design&node-id=806-20&viewport=75%2C-80%2C0.36&t=4zwLIKvvEhnG4zKQ-1&scaling=scale-down&starting-point-node-id=806%3A20&mode=design"
     />
   </section>
 </template>
