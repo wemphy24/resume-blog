@@ -101,29 +101,31 @@
       to 5pm. I'm very willing to work with you.
     </div>
     <div class="py-10 text-center">
-      <button
-        class="rounded-xl btn-primary text-lg text-center py-2 px-2 sm:px-8 hover:scale-105 hover:-translate-x-0 hover:duration-500"
-      >
-        <div class="flex gap-4 items-center font-medium text-xl">
-          <p>wemphysp@gmail.com</p>
-          <svg
-            class="w-10 stroke-[2px]"
-            data-slot="icon"
-            fill="none"
-            stroke-width="1.5"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
-            xmlns="http://www.w3.org/2000/svg"
-            aria-hidden="true"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"
-            ></path>
-          </svg>
-        </div>
-      </button>
+      <a href="mailto:wemphysp@gmail.com">
+        <button
+          class="rounded-xl btn-primary text-lg text-center py-2 px-2 sm:px-8 hover:scale-105 hover:-translate-x-0 hover:duration-500"
+        >
+          <div class="flex gap-4 items-center font-medium text-xl">
+            <p>wemphysp@gmail.com</p>
+            <svg
+              class="w-10 stroke-[2px]"
+              data-slot="icon"
+              fill="none"
+              stroke-width="1.5"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+              aria-hidden="true"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"
+              ></path>
+            </svg>
+          </div>
+        </button>
+      </a>
     </div>
   </section>
 </template>
