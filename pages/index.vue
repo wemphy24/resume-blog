@@ -36,8 +36,8 @@
           <a href="">
             <img src="/img/facebook.png" alt="" />
           </a>
-          <a href="">
-            <img src="/img/twitter.png" alt="" />
+          <a href="https://github.com/wemphy24">
+            <img src="/img/github.png" alt="" />
           </a>
         </div>
       </div>
