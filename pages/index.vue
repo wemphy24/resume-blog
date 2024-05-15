@@ -91,6 +91,14 @@
         stackTitleTwo="Mobile App"
       />
     </div>
+    <div class="flex items-center">
+      <NuxtLink
+        to="/projects"
+        class="mx-auto rounded-xl btn-primary text-lg w-48 text-center px-8 py-2 hover:scale-105 hover:-translate-x-0 hover:duration-500 font-medium"
+      >
+        See More
+      </NuxtLink>
+    </div>
   </section>
   <section class="contact px-10 sm:px-24">
     <div class="text-4xl font-bold text-center py-10">
