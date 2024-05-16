@@ -13,7 +13,7 @@
       imgTwo="/img/gj2.jpg"
       imgThree="/img/gj3.jpg"
       imgFour="/img/gj4.jpg"
-      linkFigma="www.figma.com"
+      linkFigma="https://www.figma.com"
     />
   </section>
 </template>
