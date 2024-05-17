@@ -33,8 +33,10 @@
           <a href="https://www.instagram.com/_wemphy_/">
             <img src="/img/instagram.png" alt="" />
           </a>
-          <a href="">
-            <img src="/img/facebook.png" alt="" />
+          <a
+            href="https://brassy-conifer-f9a.notion.site/Welcome-To-My-Portfolio-fe2648074241480e8096c9e28cdb86ae?pvs=4"
+          >
+            <img src="/img/notion.png" alt="" />
           </a>
           <a href="https://github.com/wemphy24">
             <img src="/img/github.png" alt="" />
