@@ -6,12 +6,18 @@
     <div class="introduction">
       <div class="text-2xl font-semibold">About Me</div>
       <div class="font-medium text-lg mt-2 text-justify">
-        Hello, let me introduce myself. My name is Wemphy Stephian Philipe, but
-        people usually call me Wemphy. I am a fresh graduate who just graduated
-        in August 2023. Currently, I work as a freelance UI/UX designer and also
-        as a web developer on an online work platform. I have a keen interest
-        and skills in web development, UI/UX design, and data analysis to
-        address business process needs in solving problems.
+        Hello, let me introduce myself. My name is Wemphy Stephian Philipe, and
+        I am a fresh graduate who just graduated in August 2023. Currently, I
+        work as a freelance UI/UX designer and web developer on an online work
+        platform. I have a keen interest and skills in web development, UI/UX
+        design, and data analysis to address business process needs in solving
+        problems. I am proficient in using the TALL stack (Tailwind, Alpine,
+        Laravel, Livewire) and the MEVN stack (MongoDB, Express.js, Vue.js,
+        Node.js) to build dynamic, responsive, and efficient web applications.
+        I'm also studying other exciting technologies like React and Flutter.
+        I've always tried to expand my knowledge and keep learning and
+        developing to be at the forefront of the ever-evolving technology
+        landscape.
       </div>
       <div class="py-10 text-center">
         <button
