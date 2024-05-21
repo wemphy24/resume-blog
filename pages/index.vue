@@ -1,13 +1,14 @@
 <template>
+  <!-- Meet Intro -->
   <section
-    class="intro bg-neutral-800 px-10 sm:px-32 py-10 grid grid-cols-1 lg:grid-cols-2"
+    class="intro bg-[#18181B] px-4 sm:px-14 py-10 grid grid-cols-1 lg:grid-cols-2"
   >
     <div class="my-auto flex flex-col gap-12">
-      <div class="text-white font-bold text-4xl text-center lg:text-start">
+      <div class="text-white font-medium text-4xl text-center lg:text-start">
         <div>Meet</div>
         <div>Wemphy Stephian</div>
       </div>
-      <div class="text-white font-medium text-xl text-center lg:text-start">
+      <div class="text-white text-xl text-center lg:text-start">
         <p>
           To be a front end developer is such honour for me. I can help everyone
           build their business. It such happiness for me. So, let me to help
@@ -15,12 +16,12 @@
         </p>
       </div>
       <div
-        class="font-medium block sm:flex gap-8 items-center justify-center lg:justify-start"
+        class="block sm:flex gap-8 items-center justify-center lg:justify-start"
       >
         <div class="flex justify-center items-center">
           <NuxtLink
             to="/projects"
-            class="rounded-xl btn-primary text-lg w-48 text-center px-8 py-2 hover:scale-105 hover:-translate-x-0 hover:duration-500"
+            class="btn-primary font-medium rounded-xl text-lg w-48 text-center px-8 py-2 hover:scale-105 hover:-translate-x-0 hover:duration-500"
           >
             See Projects
           </NuxtLink>
@@ -48,21 +49,25 @@
       <img class="w-auto" src="/img/profile.png" alt="" />
     </div>
   </section>
-  <div
+  <!--  -->
+
+  <!-- Promotion Social -->
+  <section
     class="flex flex-wrap items-center justify-around gap-8 p-10 bg-slate-200"
   >
     <p class="text-3xl font-bold">Behance</p>
     <p class="text-3xl font-bold">Fiverr</p>
     <p class="text-3xl font-bold">Dribbble</p>
     <p class="text-3xl font-bold">Upwork</p>
-  </div>
-  <section class="completed-project px-10 mt-10 sm:px-28">
-    <div class="text-4xl font-bold text-center py-10">
+  </section>
+  <!--  -->
+
+  <!-- Completed Projects -->
+  <section class="completed-project px-4 sm:px-14 lg:px-28">
+    <div class="text-4xl font-medium text-center py-10">
       Best completed projects
     </div>
-    <div class="mx-auto text-2xl font-medium text-center">
-      Choose my work project
-    </div>
+    <div class="mx-auto text-2xl text-center">Choose my work project</div>
     <div class="flex flex-wrap items-center justify-center gap-8 py-10">
       <CardProject
         linkProject="/projects/circlemoviez"
@@ -96,17 +101,20 @@
     <div class="flex items-center">
       <NuxtLink
         to="/projects"
-        class="mx-auto rounded-xl btn-primary text-lg w-48 text-center px-8 py-2 hover:scale-105 hover:-translate-x-0 hover:duration-500 font-medium"
+        class="btn-primary font-medium mx-auto rounded-xl text-lg w-48 text-center px-8 py-2 hover:scale-105 hover:-translate-x-0 hover:duration-500"
       >
         See More
       </NuxtLink>
     </div>
   </section>
-  <section class="contact px-10 sm:px-24">
-    <div class="text-4xl font-bold text-center py-10">
+  <!--  -->
+
+  <!-- Say Hi  -->
+  <section class="contact px-4 sm:px-14">
+    <div class="text-4xl font-medium text-center py-10">
       That's all about me, feel free to say hi!
     </div>
-    <div class="mx-auto text-2xl font-medium text-center">
+    <div class="mx-auto text-2xl text-center">
       Pour your ideas into my email or can discuss with me. I am available 7am
       to 5pm. I'm very willing to work with you.
     </div>
@@ -138,6 +146,7 @@
       </a>
     </div>
   </section>
+  <!--  -->
 </template>
 
 <script setup>

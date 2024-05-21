@@ -1,18 +1,20 @@
 <template>
-  <header class="shadow-md bg-white">
+  <header class="shadow-md bg-[#f5f5f5]">
     <nav
       class="container mx-auto p-8 block text-center lg:flex justify-between"
     >
       <NuxtLink class="text-3xl font-bold" to="/">Wemphy Stephian</NuxtLink>
       <ul class="mt-10 lg:mt-0 flex gap-6 items-center justify-center">
         <li>
-          <NuxtLink class="font-semibold text-xl hover:text-neutral-600" to="/"
+          <NuxtLink
+            class="font-medium text-xl text-neutral-500 hover:text-black"
+            to="/"
             >Home</NuxtLink
           >
         </li>
         <li>
           <NuxtLink
-            class="font-semibold text-xl hover:text-neutral-600"
+            class="font-medium text-xl text-neutral-500 hover:text-black"
             to="/projects"
             >Projects</NuxtLink
           >
@@ -20,7 +22,7 @@
 
         <li>
           <NuxtLink
-            class="font-semibold text-xl hover:text-neutral-600"
+            class="font-medium text-xl text-neutral-500 hover:text-black"
             to="/about"
             >About</NuxtLink
           >
@@ -31,36 +33,37 @@
 
   <slot />
 
-  <footer class="shadow-md bg-neutral-800">
+  <footer class="shadow-md bg-[#18181B]">
     <nav
       class="container mx-auto p-8 block text-center lg:flex justify-between"
     >
-      <NuxtLink class="text-3xl font-bold text-white" to="/"
+      <NuxtLink class="text-3xl font-bold text-white footer-link" to="/"
         >Wemphy Stephian</NuxtLink
       >
+
       <ul class="mt-10 lg:mt-0 flex gap-6 items-center justify-center">
-        <li>
+        <p class="text-white font-bold">⚡ 2024 ⚡</p>
+        <!-- <li>
           <NuxtLink
-            class="font-semibold text-xl text-white hover:text-neutral-600"
+            class="font-medium text-xl text-neutral-500 hover:text-black"
             to="/"
             >Home</NuxtLink
           >
         </li>
         <li>
           <NuxtLink
-            class="font-semibold text-xl text-white hover:text-neutral-600"
+            class="font-medium text-xl text-neutral-500 hover:text-black"
             to="/projects"
             >Projects</NuxtLink
           >
         </li>
-
         <li>
           <NuxtLink
-            class="font-semibold text-xl text-white hover:text-neutral-600"
+            class="font-medium text-xl text-neutral-500 hover:text-black"
             to="/about"
             >About</NuxtLink
           >
-        </li>
+        </li> -->
       </ul>
       <div class="mt-10 lg:mt-0 flex gap-4 items-center justify-center">
         <a href="https://www.linkedin.com/in/wemphy-stephian/">
@@ -86,4 +89,12 @@
 export default {};
 </script>
 
-<style></style>
+<style scoped>
+.router-link-active {
+  @apply text-black;
+}
+
+.footer-link {
+  color: white !important;
+}
+</style>

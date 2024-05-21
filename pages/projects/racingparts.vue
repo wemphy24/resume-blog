@@ -1,5 +1,5 @@
 <template>
-  <section class="px-8 md:px-[200px] xl:px-[325px]">
+  <section class="px-4 md:px-[200px] xl:px-[325px]">
     <DetailProject
       imgProject="/img/rpproject.jpg"
       titleProject="Racing Parts"

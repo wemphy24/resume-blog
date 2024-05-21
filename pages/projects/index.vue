@@ -1,7 +1,7 @@
 <template>
-  <section class="px-8 md:px-[200px] xl:px-[300px]">
+  <section class="px-10 sm:px-14 lg:px-28">
     <div class="text-4xl font-bold text-center py-10">My projects</div>
-    <div class="mx-auto text-2xl font-medium text-center">
+    <div class="mx-auto text-2xl text-center">
       These are some of the projects I've worked on before
     </div>
     <div class="flex flex-wrap items-center justify-center gap-8 py-10">

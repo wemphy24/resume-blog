@@ -2,10 +2,10 @@
   <div
     class="py-10 image-container rounded-xl flex justify-center items-center"
   >
-    <img :src="imgProject" alt="" />
+    <img class="rounded-xl" :src="imgProject" alt="" />
   </div>
   <div class="title-container text-center">
-    <div class="text-4xl font-bold">{{ titleProject }}</div>
+    <div class="text-4xl font-medium">{{ titleProject }}</div>
     <div class="font-medium text-xl my-2">{{ subTitleProject }}</div>
     <div class="flex items-center justify-center gap-4">
       <TechStack :title="titleStackOne" />
@@ -14,37 +14,37 @@
   </div>
   <div class="description-container">
     <div class="introduction my-10">
-      <div class="text-2xl font-semibold">Introduction</div>
-      <div class="font-medium text-lg mt-2 text-justify">
+      <div class="text-2xl font-medium">Introduction</div>
+      <div class="text-xl mt-2 text-justify">
         {{ introProject }}
       </div>
     </div>
     <div class="my-role my-10">
-      <div class="text-2xl font-semibold">My Role</div>
-      <div class="font-medium text-lg mt-2 text-justify">
+      <div class="text-2xl font-medium">My Role</div>
+      <div class="text-xl mt-2 text-justify">
         {{ roleProject }}
       </div>
     </div>
     <div class="problem my-10">
-      <div class="text-2xl font-semibold">Problem</div>
-      <div class="font-medium text-lg mt-2 text-justify">
+      <div class="text-2xl font-medium">Problem</div>
+      <div class="text-xl mt-2 text-justify">
         {{ problemProject }}
       </div>
     </div>
     <div class="final-design my-10">
-      <div class="text-2xl font-semibold">Final Design</div>
-      <div class="font-medium text-lg mt-2">
+      <div class="text-2xl font-medium">Final Design</div>
+      <div class="text-xl mt-2">
         <div class="flex items-center flex-wrap gap-4 justify-center">
-          <img :src="imgOne" alt="" />
-          <img :src="imgTwo" alt="" />
-          <img :src="imgThree" alt="" />
-          <img :src="imgFour" alt="" />
+          <img class="rounded-xl" :src="imgOne" alt="" />
+          <img class="rounded-xl" :src="imgTwo" alt="" />
+          <img class="rounded-xl" :src="imgThree" alt="" />
+          <img class="rounded-xl" :src="imgFour" alt="" />
         </div>
       </div>
     </div>
     <div class="prototype my-10">
-      <div class="text-2xl font-semibold">Prototype</div>
-      <div class="font-medium text-lg mt-2">
+      <div class="text-2xl font-medium">Prototype</div>
+      <div class="text-xl mt-2">
         <div class="border-primary rounded-xl">
           <div class="block md:flex items-center justify-between gap-4 p-2.5">
             <img

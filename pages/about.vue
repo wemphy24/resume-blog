@@ -4,8 +4,8 @@
       <img src="/img/me.png" alt="" />
     </div>
     <div class="introduction">
-      <div class="text-2xl font-semibold">About Me</div>
-      <div class="font-medium text-lg mt-2 text-justify">
+      <div class="text-2xl font-medium">About Me</div>
+      <div class="text-xl mt-2 text-justify">
         Hello, let me introduce myself. My name is Wemphy Stephian Philipe, and
         I am a fresh graduate who just graduated in August 2023. Currently, I
         work as a freelance UI/UX designer and web developer on an online work
