@@ -45,7 +45,7 @@
     <div class="prototype my-10">
       <div class="text-2xl font-medium">Prototype</div>
       <div class="text-xl mt-2">
-        <div class="border-primary rounded-xl">
+        <div class="border-[2px] border-[#e9e9e9] rounded-xl">
           <div class="block md:flex items-center justify-between gap-4 p-2.5">
             <img
               class="mx-auto mb-2 md:mx-0 md:mb-0"
