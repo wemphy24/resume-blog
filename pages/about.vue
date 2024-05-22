@@ -20,6 +20,28 @@
         landscape.
       </div>
       <div class="py-10 text-center">
+        <div
+          class="logo flex items-center justify-center flex-wrap gap-6 mb-10"
+        >
+          <i class="devicon-html5-plain colored text-5xl"></i>
+          <i class="devicon-css3-plain colored text-5xl"></i>
+          <i class="devicon-javascript-plain colored text-5xl"></i>
+          <i class="devicon-php-plain colored text-5xl"></i>
+          <i class="devicon-mysql-original colored text-5xl"></i>
+          <i class="devicon-postgresql-plain colored text-5xl"></i>
+          <i class="devicon-tailwindcss-original colored text-5xl"></i>
+          <i class="devicon-bootstrap-plain colored text-5xl"></i>
+          <i class="devicon-laravel-original colored text-5xl"></i>
+          <i class="devicon-alpinejs-original colored text-5xl"></i>
+          <i class="devicon-livewire-plain colored text-5xl"></i>
+          <i class="devicon-vuejs-plain colored text-5xl"></i>
+          <i class="devicon-react-original colored text-5xl"></i>
+          <i class="devicon-express-original colored text-5xl"></i>
+          <i class="devicon-nodejs-plain-wordmark colored text-5xl"></i>
+          <i class="devicon-nuxtjs-plain colored text-5xl"></i>
+          <i class="devicon-nextjs-plain colored text-5xl"></i>
+        </div>
+
         <button
           class="btn-primary px-8 text-lg py-2 rounded-xl text-center hover:scale-105 hover:-translate-x-0 hover:duration-500 font-medium"
         >
