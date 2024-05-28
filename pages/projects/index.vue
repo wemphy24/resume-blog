@@ -61,6 +61,13 @@
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
+      <CardProject
+        linkProject="/projects/propertiku"
+        imgPreview="/img/ppreview.jpg"
+        title="Property Estate App"
+        stackTitleOne="UI Design"
+        stackTitleTwo="Mobile App"
+      />
     </div>
   </section>
 </template>
