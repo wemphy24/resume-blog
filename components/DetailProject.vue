@@ -48,20 +48,46 @@
         <div class="border-[2px] border-[#e9e9e9] rounded-xl">
           <div class="block md:flex items-center justify-between gap-4 p-2.5">
             <img
+              v-if="titleStackOne != 'Web App'"
               class="mx-auto mb-2 md:mx-0 md:mb-0"
               src="/img/figma.png"
               alt=""
             />
+            <img
+              v-else
+              class="mx-auto mb-2 md:mx-0 md:mb-0"
+              src="/img/githublinkblack.png"
+              alt=""
+            />
             <div>
               <div class="font-medium text-center">{{ titleProject }}</div>
-              <div class="font-light text-sm text-center">www.figma.com</div>
+              <div
+                v-if="titleStackOne != 'Web App'"
+                class="font-light text-sm text-center"
+              >
+                www.figma.com
+              </div>
+              <div v-else class="font-light text-sm text-center">
+                www.github.com
+              </div>
             </div>
             <a :href="linkFigma" target="_blank">
               <button
                 class="flex items-center gap-4 py-2 px-4 bg-neutral-800 rounded-xl mx-auto mt-2 md:mx-0 md:mt-0 hover:scale-105 hover:-translate-x-0 hover:duration-500"
               >
-                <img src="/img/figma.png" alt="" />
-                <p class="font-medium text-white">Open in Figma</p>
+                <img
+                  v-if="titleStackOne != 'Web App'"
+                  src="/img/figma.png"
+                  alt=""
+                />
+                <img v-else src="/img/githublink.png" alt="" />
+                <p
+                  v-if="titleStackOne != 'Web App'"
+                  class="font-medium text-white"
+                >
+                  Open in Figma
+                </p>
+                <p v-else class="font-medium text-white">Open in Github</p>
               </button>
             </a>
           </div>
