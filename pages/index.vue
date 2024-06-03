@@ -97,6 +97,20 @@
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
+      <CardProject
+        linkProject="/projects/gamerz"
+        imgPreview="/img/gpreview.jpg"
+        title="Redesign Gaming Platform App"
+        stackTitleOne="UI Design"
+        stackTitleTwo="Mobile App"
+      />
+      <CardProject
+        linkProject="/projects/konnaku"
+        imgPreview="/img/kpreview.jpg"
+        title="Coffeeshop Landing Page"
+        stackTitleOne="UI Design"
+        stackTitleTwo="Web Design"
+      />
     </div>
     <div class="flex items-center">
       <NuxtLink

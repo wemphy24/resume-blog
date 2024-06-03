@@ -74,17 +74,23 @@
           <i
             class="devicon-nextjs-plain colored text-5xl hover:scale-110 hover:-translate-x-0 hover:duration-500"
           ></i>
-
-          <!-- <img
+          <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-            class="w-12"
-          /> -->
+            class="w-12 hover:scale-110 hover:-translate-x-0 hover:duration-500"
+          />
+          <i
+            class="devicon-webflow-original colored text-5xl hover:scale-110 hover:-translate-x-0 hover:duration-500"
+          ></i>
         </div>
 
         <button
           class="btn-primary px-8 text-lg py-2 rounded-xl text-center hover:scale-105 hover:-translate-x-0 hover:duration-500 font-medium"
         >
-          <a href="/pdf/wemphy-resume.pdf" download>See My Resume</a>
+          <!-- <a href="/pdf/wemphy-resume.pdf" download>See My Resume</a> -->
+          <a
+            href="https://drive.google.com/drive/folders/1SNAfKHdUy0LuOtooOigSFYmJ0R5Uproq?usp=sharing"
+            >See My Resume</a
+          >
         </button>
       </div>
     </div>
