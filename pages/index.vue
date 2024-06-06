@@ -10,9 +10,9 @@
       </div>
       <div class="text-white text-xl text-center lg:text-start">
         <p>
-          To be a front end developer is such honour for me. I can help everyone
-          build their business. It such happiness for me. So, let me to help
-          you!
+          Hello, i have interests and skills in web development and UI/UX
+          design. I can help everyone build their business. It such happiness
+          for me. So, let me to help you!
         </p>
       </div>
       <div
