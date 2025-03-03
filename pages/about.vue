@@ -1,10 +1,10 @@
 <template>
   <section class="px-8 md:px-[200px] xl:px-[400px]">
-    <div class="image-container flex items-center justify-center py-10">
+    <!-- <div class="image-container flex items-center justify-center py-10">
       <img src="/img/me.png" alt="" />
-    </div>
+    </div> -->
     <div class="introduction">
-      <div class="text-2xl font-medium">About Me</div>
+      <div class="text-2xl font-medium my-8">About Me</div>
       <div class="text-xl mt-2 text-justify">
         Hello, let me introduce myself. My name is Wemphy Stephian Philipe, and
         I am a fresh graduate with bachelor degree in Computer Science.
@@ -88,6 +88,7 @@
         >
           <!-- <a href="/pdf/wemphy-resume.pdf" download>See My Resume</a> -->
           <a
+            target="_blank"
             href="https://drive.google.com/drive/folders/1SNAfKHdUy0LuOtooOigSFYmJ0R5Uproq?usp=sharing"
             >See My Resume</a
           >

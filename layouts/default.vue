@@ -42,7 +42,7 @@
       >
 
       <ul class="mt-10 lg:mt-0 flex gap-6 items-center justify-center">
-        <p class="text-white font-bold">⚡ 2024 ⚡</p>
+        <p class="text-white font-bold">⚡ 2025 ⚡</p>
         <!-- <li>
           <NuxtLink
             class="font-medium text-xl text-neutral-500 hover:text-black"
