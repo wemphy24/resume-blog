@@ -13,7 +13,7 @@
       imgTwo="/img/cw2.jpg"
       imgThree="/img/cw3.jpg"
       imgFour="/img/cw4.jpg"
-      linkFigma="https://www.figma.com/proto/sD95hT6AM6m0CL7dxiAl5o/Real-Estate-App?page-id=1%3A2&node-id=96-6&viewport=520%2C-238%2C0.52&t=ZluTJDWvHfnlYbgg-1&scaling=min-zoom&starting-point-node-id=96%3A6"
+      linkFigma="https://www.figma.com/proto/l2kVCAfBCt0xBo58I2nKzW/Crypto-Wallet-App?page-id=0%3A1&node-id=91-1941&p=f&viewport=-416%2C542%2C0.29&t=D43qeS8cDTOCQqbI-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=105%3A2220"
     />
   </section>
 </template>

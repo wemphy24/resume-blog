@@ -2,7 +2,7 @@
   <section class="px-4 md:px-[200px] xl:px-[325px]">
     <DetailProject
       imgProject="/img/improject.jpg"
-      titleProject="Influencer Market"
+      titleProject="Influencer Market (Fiverr Project)"
       subTitleProject="Influencer Marketplace App"
       titleStackOne="UI Design"
       titleStackTwo="Mobile App"

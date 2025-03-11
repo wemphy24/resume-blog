@@ -2,7 +2,7 @@
   <section class="px-4 md:px-[200px] xl:px-[325px]">
     <DetailProject
       imgProject="/img/daproject.jpg"
-      titleProject="Kencan App"
+      titleProject="Kencan App (Client Project)"
       subTitleProject="Dating Platform App"
       titleStackOne="UI Design"
       titleStackTwo="Mobile App"

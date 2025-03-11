@@ -2,7 +2,7 @@
   <section class="px-4 md:px-[200px] xl:px-[325px]">
     <DetailProject
       imgProject="/img/pproject.jpg"
-      titleProject="Propertiku (Client Project)"
+      titleProject="Propertiku (Fiverr Project)"
       subTitleProject="Property Estate App"
       titleStackOne="UI Design"
       titleStackTwo="Mobile App"
