@@ -3,7 +3,7 @@
     <DetailProject
       imgProject="/img/improject.jpg"
       titleProject="Influencer Market"
-      subTitleProject="Concept Influencer Market"
+      subTitleProject="Influencer Marketplace App"
       titleStackOne="UI Design"
       titleStackTwo="Mobile App"
       introProject="This application is designed for influencers and those looking for influencers. It focuses on providing a friendly experience for influencers to connect with brands and monetize their influence. The app offers various benefits, including easy navigation, attractive design, and intuitive features that allow influencers to showcase their skills and attract potential collaborations. With a user-oriented design, it is expected to empower influencers to maximize their earning potential and build successful partnerships with brands in the digital realm."

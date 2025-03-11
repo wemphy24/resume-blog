@@ -2,8 +2,8 @@
   <section class="px-4 md:px-[200px] xl:px-[325px]">
     <DetailProject
       imgProject="/img/cmproject.jpg"
-      titleProject="Circle Moviez"
-      subTitleProject="Redesign Movie Streaming App"
+      titleProject="Circle Moviez (Fiverr Project)"
+      subTitleProject="Movie Streaming App"
       titleStackOne="UI Design"
       titleStackTwo="Mobile App"
       introProject="Circle Moviez is a movie streaming application that offers a variety of

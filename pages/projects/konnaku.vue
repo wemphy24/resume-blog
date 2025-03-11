@@ -2,7 +2,7 @@
   <section class="px-4 md:px-[200px] xl:px-[325px]">
     <DetailProject
       imgProject="/img/kproject.jpg"
-      titleProject="Konnaku"
+      titleProject="Konnaku (Client Project)"
       subTitleProject="Coffeeshop Landing Page"
       titleStackOne="UI Design"
       titleStackTwo="Web Design"

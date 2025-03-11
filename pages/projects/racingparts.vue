@@ -2,7 +2,7 @@
   <section class="px-4 md:px-[200px] xl:px-[325px]">
     <DetailProject
       imgProject="/img/rpproject.jpg"
-      titleProject="Racing Parts"
+      titleProject="Racing Parts (Fiverr Project)"
       subTitleProject="Racing Parts Landing Page"
       titleStackOne="UI Design"
       titleStackTwo="Web Design"

@@ -8,7 +8,7 @@
       <CardProject
         linkProject="/projects/circlemoviez"
         imgPreview="/img/cmpreview.jpg"
-        title="Redesign Movie Streaming App"
+        title="Movie Streaming App"
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
@@ -29,14 +29,14 @@
       <CardProject
         linkProject="/projects/influencer"
         imgPreview="/img/impreview.jpg"
-        title="Concept Influencer Market"
+        title="Influencer Marketplace App"
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
       <CardProject
         linkProject="/projects/gamerz"
         imgPreview="/img/gpreview.jpg"
-        title="Redesign Gaming Platform App"
+        title="Gaming Platform App"
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
@@ -57,7 +57,7 @@
       <CardProject
         linkProject="/projects/kencan"
         imgPreview="/img/dapreview.jpg"
-        title="Concept Dating App"
+        title="Dating Platform App"
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
@@ -65,6 +65,13 @@
         linkProject="/projects/propertiku"
         imgPreview="/img/ppreview.jpg"
         title="Property Estate App"
+        stackTitleOne="UI Design"
+        stackTitleTwo="Mobile App"
+      />
+      <CardProject
+        linkProject="/projects/cryptowallet"
+        imgPreview="/img/cwpreview.jpg"
+        title="Crypto Wallet App"
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />

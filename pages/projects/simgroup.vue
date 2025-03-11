@@ -2,7 +2,7 @@
   <section class="px-4 md:px-[200px] xl:px-[325px]">
     <DetailProject
       imgProject="/img/sgproject.jpg"
-      titleProject="SIM Group (Private Project)"
+      titleProject="SIM Group (Company Project)"
       subTitleProject="Manufacturing Information System"
       titleStackOne="Web App"
       titleStackTwo="Laravel"

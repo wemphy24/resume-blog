@@ -3,7 +3,7 @@
     <DetailProject
       imgProject="/img/daproject.jpg"
       titleProject="Kencan App"
-      subTitleProject="Concept Dating App"
+      subTitleProject="Dating Platform App"
       titleStackOne="UI Design"
       titleStackTwo="Mobile App"
       introProject="Kencan app is a dating platform designed with a focus on user experience and interface design. The application aims to provide a smooth and enjoyable dating experience for its users. The design of this app combines modern and intuitive features, allowing users to easily navigate and interact with potential matches. Whether it's swiping through profiles, sending messages, or exploring various dating options, the app offers a user-friendly and engaging experience."

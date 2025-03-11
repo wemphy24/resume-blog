@@ -2,8 +2,8 @@
   <section class="px-4 md:px-[200px] xl:px-[325px]">
     <DetailProject
       imgProject="/img/gproject.jpg"
-      titleProject="Gamerz"
-      subTitleProject="Redesign Gaming Platform App"
+      titleProject="Gamerz (Fiverr Project)"
+      subTitleProject="Gaming Platform App"
       titleStackOne="UI Design"
       titleStackTwo="Mobile App"
       introProject="The Gaming Community app is designed to showcase a list of newly launched games on any gaming platform. This app also provides walkthroughs for each selected game. Additionally, there's a feature for direct top-ups through the app for certain games. With this app, gaming enthusiasts can utilize it to stay updated on the latest new games."

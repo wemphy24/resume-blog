@@ -2,7 +2,7 @@
   <section class="px-4 md:px-[200px] xl:px-[325px]">
     <DetailProject
       imgProject="/img/gjproject.jpg"
-      titleProject="Porprov Admin"
+      titleProject="Porprov Admin (Intern Project)"
       subTitleProject="GABSI Jatim Information System Website"
       titleStackOne="Web App"
       titleStackTwo="Laravel"
