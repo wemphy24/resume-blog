@@ -69,6 +69,13 @@
         stackTitleTwo="Mobile App"
       />
       <CardProject
+        linkProject="/projects/konsuldok"
+        imgPreview="/img/kdpreview.jpg"
+        title="Doctor Consultation App"
+        stackTitleOne="UI Design"
+        stackTitleTwo="Mobile App"
+      />
+      <CardProject
         linkProject="/projects/cryptowallet"
         imgPreview="/img/cwpreview.jpg"
         title="Crypto Wallet App"
