@@ -43,7 +43,10 @@
       </div>
     </div>
     <div class="prototype my-10">
-      <div class="text-2xl font-medium">Prototype</div>
+      <div v-if="titleStackOne != 'Web App'" class="text-2xl font-medium">
+        Prototype
+      </div>
+      <div v-else class="text-2xl font-medium">Application</div>
       <div class="text-xl mt-2">
         <div class="border-[2px] border-[#e9e9e9] rounded-xl">
           <div class="block md:flex items-center justify-between gap-4 p-2.5">
