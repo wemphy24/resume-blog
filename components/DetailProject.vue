@@ -96,6 +96,33 @@
           </div>
         </div>
       </div>
+
+      <div v-show="linkLiveProject != null" class="text-xl mt-2">
+        <div class="text-2xl font-medium mb-2">Live Project</div>
+        <div class="border-[2px] border-[#e9e9e9] rounded-xl">
+          <div class="block md:flex items-center justify-between gap-4 p-2.5">
+            <img
+              class="mx-auto mb-2 md:mx-0 md:mb-0"
+              src="/img/vercellink.png"
+              alt=""
+            />
+            <div>
+              <div class="font-medium text-center">{{ titleProject }}</div>
+              <div class="font-light text-sm text-center">
+                www.konnaku-landing.vercel.app
+              </div>
+            </div>
+            <a :href="linkLiveProject" target="_blank">
+              <button
+                class="flex items-center gap-4 py-2 px-4 bg-neutral-800 rounded-xl mx-auto mt-2 md:mx-0 md:mt-0 hover:scale-105 hover:-translate-x-0 hover:duration-500"
+              >
+                <img src="/img/vercellink.png" alt="" />
+                <p class="font-medium text-white">Open Live Site</p>
+              </button>
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -115,6 +142,7 @@ const props = defineProps({
   imgThree: String,
   imgFour: String,
   linkFigma: String,
+  linkLiveProject: String,
 });
 </script>
 

@@ -1,10 +1,20 @@
 <template>
   <header class="shadow-md bg-[#f5f5f5]">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
     <nav
       class="container mx-auto p-8 block text-center lg:flex justify-between"
     >
-      <NuxtLink class="text-3xl font-bold" to="/">Wemphy Stephian</NuxtLink>
-      <ul class="mt-10 lg:mt-0 flex gap-6 items-center justify-center">
+      <NuxtLink
+        class="text-3xl font-bold animate__animated animate__lightSpeedInLeft"
+        to="/"
+        >Wemphy Stephian</NuxtLink
+      >
+      <ul
+        class="mt-10 lg:mt-0 flex gap-6 items-center justify-center animate__animated animate__lightSpeedInRight"
+      >
         <li>
           <NuxtLink
             class="font-medium text-xl text-neutral-500 hover:text-black"

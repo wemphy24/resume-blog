@@ -1,11 +1,18 @@
 <template>
   <section class="px-10 sm:px-14 lg:px-28">
-    <div class="text-4xl font-bold text-center py-10">My projects</div>
-    <div class="mx-auto text-2xl text-center">
+    <div
+      class="text-4xl font-bold text-center py-10 animate__animated animate__fadeInLeft"
+    >
+      My projects
+    </div>
+    <div
+      class="mx-auto text-2xl text-center animate__animated animate__fadeInRight"
+    >
       These are some of the projects I've worked on before
     </div>
     <div class="flex flex-wrap items-center justify-center gap-8 py-10">
       <CardProject
+        class="animate__animated animate__fadeInLeft"
         linkProject="/projects/circlemoviez"
         imgPreview="/img/cmpreview.jpg"
         title="Movie Streaming App"
@@ -13,6 +20,7 @@
         stackTitleTwo="Mobile App"
       />
       <CardProject
+        class="animate__animated animate__fadeInRight"
         linkProject="/projects/racingparts"
         imgPreview="/img/rppreview.jpg"
         title="Racing Parts Landing Page"

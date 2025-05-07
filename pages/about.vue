@@ -4,8 +4,14 @@
       <img src="/img/me.png" alt="" />
     </div> -->
     <div class="introduction">
-      <div class="text-2xl font-medium my-8">About Me</div>
-      <div class="text-xl mt-2 text-justify">
+      <div
+        class="text-2xl font-medium my-8 animate__animated animate__fadeInLeft"
+      >
+        About Me
+      </div>
+      <div
+        class="text-xl mt-2 text-justify animate__animated animate__fadeInRight"
+      >
         Hello, let me introduce myself. My name is Wemphy Stephian Philipe, and
         I am a fresh graduate with bachelor degree in Computer Science.
         Currently, I work as a freelance UI/UX designer and web developer on an
@@ -19,7 +25,7 @@
         learning and developing to be at the forefront of the ever-evolving
         technology landscape.
       </div>
-      <div class="py-10 text-center">
+      <div class="py-10 text-center animate__animated animate__flipInX">
         <div
           class="logo flex items-center justify-center flex-wrap gap-6 mb-10"
         >

@@ -3,16 +3,18 @@
   <section
     class="intro bg-[#18181B] px-4 sm:px-14 py-10 grid grid-cols-1 lg:grid-cols-2"
   >
-    <div class="my-auto flex flex-col gap-12">
+    <div
+      class="my-auto flex flex-col gap-12 animate__animated animate__fadeInDown"
+    >
       <div class="text-white font-medium text-4xl text-center lg:text-start">
-        <div>Meet</div>
+        <div>Hello I'm</div>
         <div>Wemphy Stephian</div>
       </div>
       <div class="text-white text-xl text-center lg:text-start">
         <p>
-          Hello, i have interests and skills in web development and UI/UX
-          design. I can help everyone build their business. It such happiness
-          for me. So, let me to help you!
+          Passionate about web development and UI/UX design — I turn ideas into
+          stunning, functional websites that help businesses grow. Let's build
+          something great together!
         </p>
       </div>
       <div
@@ -45,20 +47,33 @@
         </div>
       </div>
     </div>
-    <div class="flex justify-center mt-10 lg:flex lg:justify-end lg:mt-0">
-      <img class="w-auto" src="/img/profile.png" alt="" />
+    <div
+      class="flex justify-center mt-10 lg:flex lg:justify-end lg:mt-0 animate__animated animate__fadeInRight"
+    >
+      <img class="w-auto" src="/img/new_emoji.png" alt="" />
     </div>
   </section>
   <!--  -->
 
   <!-- Promotion Social -->
   <section
-    class="flex flex-wrap items-center justify-around gap-8 p-10 bg-slate-200"
+    class="relative flex overflow-x-hidden bg-slate-200 animate__animated animate__flipInX"
   >
-    <p class="text-3xl font-bold">Behance</p>
-    <p class="text-3xl font-bold">Fiverr</p>
-    <p class="text-3xl font-bold">Dribbble</p>
-    <p class="text-3xl font-bold">Upwork</p>
+    <div class="py-10 animate-marquee whitespace-nowrap">
+      <span class="mx-24 text-3xl font-bold">Behance</span>
+      <span class="mx-24 text-3xl font-bold">Fiverr</span>
+      <span class="mx-24 text-3xl font-bold">Dribble</span>
+      <span class="mx-24 text-3xl font-bold">Upwork</span>
+      <span class="mx-24 text-3xl font-bold">Linked In</span>
+    </div>
+
+    <div class="absolute top-0 py-10 animate-marquee2 whitespace-nowrap">
+      <span class="mx-24 text-3xl font-bold">Behance</span>
+      <span class="mx-24 text-3xl font-bold">Fiverr</span>
+      <span class="mx-24 text-3xl font-bold">Dribble</span>
+      <span class="mx-24 text-3xl font-bold">Upwork</span>
+      <span class="mx-24 text-3xl font-bold">Linked In</span>
+    </div>
   </section>
   <!--  -->
 
@@ -126,11 +141,11 @@
   <!-- Say Hi  -->
   <section class="contact px-4 sm:px-14">
     <div class="text-4xl font-medium text-center py-10">
-      That's all about me, feel free to say hi!
+      That's a little about me, feel free to say hi anytime!
     </div>
     <div class="mx-auto text-2xl text-center">
-      Pour your ideas into my email or can discuss with me. I am available 7am
-      to 5pm. I'm very willing to work with you.
+      Got a project in mind? I'd love to hear about it! Let's discuss your ideas
+      and create something impactful. I'm ready to work with you.
     </div>
     <div class="py-10 text-center">
       <a href="mailto:wemphysp@gmail.com">
