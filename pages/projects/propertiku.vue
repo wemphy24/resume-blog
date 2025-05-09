@@ -14,6 +14,7 @@
       imgThree="/img/p3.jpg"
       imgFour="/img/p4.jpg"
       linkFigma="https://www.figma.com/proto/sD95hT6AM6m0CL7dxiAl5o/Real-Estate-App?page-id=1%3A2&node-id=96-6&viewport=520%2C-238%2C0.52&t=ZluTJDWvHfnlYbgg-1&scaling=min-zoom&starting-point-node-id=96%3A6"
+      linkLiveProject="https://propertiku-app.vercel.app/"
     />
   </section>
 </template>

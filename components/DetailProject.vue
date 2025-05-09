@@ -109,7 +109,7 @@
             <div>
               <div class="font-medium text-center">{{ titleProject }}</div>
               <div class="font-light text-sm text-center">
-                www.konnaku-landing.vercel.app
+                {{ linkLiveProject }}
               </div>
             </div>
             <a :href="linkLiveProject" target="_blank">
