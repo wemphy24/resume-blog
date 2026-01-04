@@ -78,12 +78,12 @@
   <!--  -->
 
   <!-- Completed Projects -->
-  <section class="completed-project px-4 sm:px-14 lg:px-28">
-    <div class="text-4xl font-medium text-center py-10">
-      Best completed projects
+  <section class="max-w-screen-2xl mx-auto px-10 md:px-20">
+    <div class="text-2xl sm:text-4xl font-medium text-center py-10">
+      Best Completed Projects
     </div>
-    <div class="mx-auto text-2xl text-center">Choose my work project</div>
-    <div class="flex flex-wrap items-center justify-center gap-8 py-10">
+    <div class="text-xl sm:text-2xl text-center">Choose my work project</div>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-8 items-center justify-center py-10">
       <CardProject
         linkProject="/projects/circlemoviez"
         imgPreview="/img/cmpreview.jpg"
@@ -139,7 +139,7 @@
   <!--  -->
 
   <!-- Say Hi  -->
-  <section class="contact px-4 sm:px-14">
+  <section class="max-w-screen-2xl mx-auto px-10 md:px-20">
     <div class="text-4xl font-medium text-center py-10">
       That's a little about me, feel free to say hi anytime!
     </div>

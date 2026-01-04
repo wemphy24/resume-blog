@@ -1,16 +1,16 @@
 <template>
-  <section class="px-10 sm:px-14 lg:px-28">
+  <section class="max-w-screen-2xl mx-auto px-10 md:px-20">
     <div
-      class="text-4xl font-bold text-center py-10 animate__animated animate__fadeInLeft"
+      class="text-2xl sm:text-4xl font-medium text-center py-10 animate__animated animate__fadeInLeft"
     >
-      My projects
+      My Projects
     </div>
     <div
-      class="mx-auto text-2xl text-center animate__animated animate__fadeInRight"
+      class="text-xl sm:text-2xl text-center animate__animated animate__fadeInRight"
     >
       These are some of the projects I've worked on before
     </div>
-    <div class="flex flex-wrap items-center justify-center gap-8 py-10">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 items-center justify-center py-10">
       <CardProject
         class="animate__animated animate__fadeInLeft"
         linkProject="/projects/circlemoviez"
@@ -20,7 +20,7 @@
         stackTitleTwo="Mobile App"
       />
       <CardProject
-        class="animate__animated animate__fadeInRight"
+        class="animate__animated animate__fadeInDown"
         linkProject="/projects/racingparts"
         imgPreview="/img/rppreview.jpg"
         title="Racing Parts Landing Page"
@@ -28,6 +28,7 @@
         stackTitleTwo="Web Design"
       />
       <CardProject
+      class="animate__animated animate__fadeInRight"
         linkProject="/projects/simgroup"
         imgPreview="/img/sgpreview.jpg"
         title="Manufacturing Information System"

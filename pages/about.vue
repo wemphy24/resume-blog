@@ -1,12 +1,12 @@
 <template>
-  <section class="px-8 md:px-[200px] xl:px-[400px]">
+  <section class="max-w-screen-2xl mx-auto px-10 md:px-20">
     <div class="introduction">
       <div
-        class="text-2xl font-medium my-8 animate__animated animate__fadeInLeft"
+        class="text-2xl sm:text-4xl font-medium py-10 animate__animated animate__fadeInLeft"
       >
         About Me
       </div>
-      <div
+      <!-- <div
         class="text-xl mt-2 text-justify animate__animated animate__fadeInRight"
       >
         Hello, let me introduce myself. My name is Wemphy Stephian Philipe, and
@@ -21,10 +21,30 @@
         React and Flutter. I've always tried to expand my knowledge and keep
         learning and developing to be at the forefront of the ever-evolving
         technology landscape.
+      </div> -->
+
+      <div class="space-y-4 animate__animated animate__fadeInRight">
+        <p class="sm:text-2xl text-justify">Graduate with a Bachelor's degree in Computer Science, majoring in
+              Business Information Systems from the University of Surabaya,
+              graduating in 2023. I have interests and skills in UI/UX design,
+              web development, and data analysis for business processes needed
+              to solve the current problems.</p>
+        <p class="sm:text-2xl text-justify">I am capable of developing innovative solutions to address current
+              technological challenges and eager to apply my technical and
+              analytical skills to drive digital transformation and innovation
+              in the banking industry. Always tried to expand my knowledge and keep
+        learning and developing to be at the forefront of the ever-evolving
+        technology landscape.</p>
+       
       </div>
-      <div class="py-10 text-center animate__animated animate__flipInX">
+       <div
+        class="text-2xl sm:text-4xl font-medium py-10 animate__animated animate__fadeInLeft"
+      >
+        Tech Stack Used
+      </div>
+      <div class="animate__animated animate__flipInX">
         <div
-          class="logo flex items-center justify-center flex-wrap gap-6 mb-10"
+          class="logo grid grid-cols-4 sm:grid-cols-8 md:grid-cols-10 items-center justify-center gap-10 mb-10"
         >
           <i
             class="devicon-html5-plain colored text-5xl hover:scale-110 hover:-translate-x-0 hover:duration-500"
@@ -72,6 +92,9 @@
             class="devicon-nodejs-plain-wordmark colored text-5xl hover:scale-110 hover:-translate-x-0 hover:duration-500"
           ></i>
           <i
+            class="devicon-go-original-wordmark colored text-5xl hover:scale-110 hover:-translate-x-0 hover:duration-500"
+          ></i>
+          <i
             class="devicon-nuxtjs-plain colored text-5xl hover:scale-110 hover:-translate-x-0 hover:duration-500"
           ></i>
           <i
@@ -85,18 +108,20 @@
             class="devicon-webflow-original colored text-5xl hover:scale-110 hover:-translate-x-0 hover:duration-500"
           ></i>
         </div>
-
-        <button
-          class="btn-primary px-8 text-lg py-2 rounded-xl text-center hover:scale-105 hover:-translate-x-0 hover:duration-500 font-medium"
-        >
-          <!-- <a href="/pdf/wemphy-resume.pdf" download>See My Resume</a> -->
-          <a
-            target="_blank"
-            href="https://drive.google.com/drive/folders/1SNAfKHdUy0LuOtooOigSFYmJ0R5Uproq?usp=sharing"
-            >See My Resume</a
+        <div class="flex items-center justify-center pb-10">
+          <button
+            class="btn-primary px-8 text-lg py-2 rounded-xl text-center hover:scale-105 hover:-translate-x-0 hover:duration-500 font-medium"
           >
-        </button>
+            <a
+              target="_blank"
+              href="https://drive.google.com/drive/folders/1SNAfKHdUy0LuOtooOigSFYmJ0R5Uproq?usp=sharing"
+              >See My Resume</a
+            >
+          </button>
+        </div>
       </div>
+
+     
     </div>
   </section>
 </template>

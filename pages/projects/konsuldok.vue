@@ -14,6 +14,7 @@
       imgThree="/img/kd3.jpg"
       imgFour="/img/kd4.jpg"
       linkFigma="https://www.figma.com/proto/z7RiERzsThxB0P4SdnADua/Doctor-App?page-id=0%3A1&node-id=1-864&p=f&viewport=854%2C246%2C0.68&t=cp3yb7zG8dY8Oh1o-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A864"
+       linkLiveProject="https://konsuldok.vercel.app/"
     />
   </section>
 </template>
