@@ -1,8 +1,5 @@
 <template>
   <section class="px-8 md:px-[200px] xl:px-[400px]">
-    <!-- <div class="image-container flex items-center justify-center py-10">
-      <img src="/img/me.png" alt="" />
-    </div> -->
     <div class="introduction">
       <div
         class="text-2xl font-medium my-8 animate__animated animate__fadeInLeft"

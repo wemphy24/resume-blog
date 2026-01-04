@@ -1,5 +1,5 @@
 <template>
-  <section class="px-4 md:px-[200px] xl:px-[325px]">
+  <section class="max-w-screen-2xl mx-auto px-10 md:px-20">
     <DetailProject
       imgProject="/img/gjproject.jpg"
       titleProject="Porprov Admin (Intern Project)"

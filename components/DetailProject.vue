@@ -1,6 +1,6 @@
 <template>
   <div
-    class="py-10 image-container rounded-xl flex justify-center items-center"
+    class="py-10 image-container flex justify-center items-center"
   >
     <img class="rounded-xl" :src="imgProject" alt="" />
   </div>
@@ -33,14 +33,13 @@
     </div>
     <div class="final-design my-10">
       <div class="text-2xl font-medium">Final Design</div>
-      <div class="text-xl mt-2">
-        <div class="flex items-center flex-wrap gap-4 justify-center">
-          <img class="rounded-xl" :src="imgOne" alt="" />
-          <img class="rounded-xl" :src="imgTwo" alt="" />
-          <img class="rounded-xl" :src="imgThree" alt="" />
-          <img class="rounded-xl" :src="imgFour" alt="" />
+        <div class="grid grid-cols-2 md:grid-cols-3 gap-4 items-center mt-2">
+          <img class="rounded-xl w-full h-auto" :src="imgOne" alt="" />
+          <img class="rounded-xl w-full h-auto" :src="imgTwo" alt="" />
+          <img class="rounded-xl w-full h-auto" :src="imgThree" alt="" />
+          <img class="rounded-xl w-full h-auto" :src="imgFour" alt="" />
         </div>
-      </div>
+
     </div>
     <div class="prototype my-10">
       <div v-if="titleStackOne != 'Web App'" class="text-2xl font-medium">

@@ -1,11 +1,11 @@
 <template>
-  <header class="shadow-md bg-[#f5f5f5]">
+  <header class="shadow-md bg-[#f5f5f5] max-w-screen-2xl mx-auto">
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
     />
     <nav
-      class="container mx-auto p-8 block text-center lg:flex justify-between"
+      class="mx-auto p-8 block text-center lg:flex justify-between px-10 md:px-20"
     >
       <NuxtLink
         class="text-3xl font-bold animate__animated animate__lightSpeedInLeft"
@@ -43,37 +43,16 @@
 
   <slot />
 
-  <footer class="shadow-md bg-[#18181B]">
+  <footer class="shadow-md bg-[#18181B] max-w-screen-2xl mx-auto">
     <nav
-      class="container mx-auto p-8 block text-center lg:flex justify-between"
+      class="mx-auto p-8 block text-center lg:flex justify-between px-10 md:px-20"
     >
       <NuxtLink class="text-3xl font-bold text-white footer-link" to="/"
         >Wemphy Stephian</NuxtLink
       >
 
       <ul class="mt-10 lg:mt-0 flex gap-6 items-center justify-center">
-        <p class="text-white font-bold">⚡ 2025 ⚡</p>
-        <!-- <li>
-          <NuxtLink
-            class="font-medium text-xl text-neutral-500 hover:text-black"
-            to="/"
-            >Home</NuxtLink
-          >
-        </li>
-        <li>
-          <NuxtLink
-            class="font-medium text-xl text-neutral-500 hover:text-black"
-            to="/projects"
-            >Projects</NuxtLink
-          >
-        </li>
-        <li>
-          <NuxtLink
-            class="font-medium text-xl text-neutral-500 hover:text-black"
-            to="/about"
-            >About</NuxtLink
-          >
-        </li> -->
+        <p class="text-white font-bold">⚡ 2026 ⚡</p>
       </ul>
       <div class="mt-10 lg:mt-0 flex gap-4 items-center justify-center">
         <a href="https://www.linkedin.com/in/wemphy-stephian/">
