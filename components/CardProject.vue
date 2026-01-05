@@ -1,7 +1,7 @@
 <template>
   <NuxtLink
     :to="linkProject"
-    class="bg-white rounded-xl w-full"
+    class="bg-white rounded-xl w-full hover:scale-105 hover:-translate-x-0 hover:duration-500"
   >
   <div class="flex flex-col gap-4 pb-4">
     <img class="rounded-t-xl w-full" :src="imgPreview" alt={{ title }} /> 
