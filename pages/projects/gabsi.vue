@@ -1,7 +1,7 @@
 <template>
   <section class="max-w-screen-2xl mx-auto px-10 md:px-20">
     <DetailProject
-      imgProject="/img/gjproject.jpg"
+      imgProject="/img/gabsiproject.jpg"
       titleProject="Porprov Admin (Intern Project)"
       subTitleProject="GABSI Jatim Information System Website"
       titleStackOne="Web App"

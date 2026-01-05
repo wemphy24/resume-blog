@@ -83,48 +83,55 @@
       Best Completed Projects
     </div>
     <div class="text-xl sm:text-2xl text-center">Choose my work project</div>
-    <div class="grid grid-cols-1 sm:grid-cols-2 gap-8 items-center justify-center py-10">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 items-center justify-center py-10">
       <CardProject
         linkProject="/projects/circlemoviez"
-        imgPreview="/img/cmpreview.jpg"
+        imgPreview="/img/circlemoviezproject.jpg"
         title="Redesign Movie Streaming App"
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
       <CardProject
         linkProject="/projects/racingparts"
-        imgPreview="/img/rppreview.jpg"
+        imgPreview="/img/racingpartsproject.jpg"
         title="Racing Parts Landing Page"
         stackTitleOne="UI Design"
         stackTitleTwo="Web Design"
       />
       <CardProject
         linkProject="/projects/simgroup"
-        imgPreview="/img/sgpreview.jpg"
+        imgPreview="/img/simproject.jpg"
         title="Manufacturing Information System"
         stackTitleOne="Web App"
         stackTitleTwo="Laravel"
       />
       <CardProject
         linkProject="/projects/influencer"
-        imgPreview="/img/impreview.jpg"
+        imgPreview="/img/influencerproject.jpg"
         title="Concept Influencer Market"
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
       <CardProject
         linkProject="/projects/gamerz"
-        imgPreview="/img/gpreview.jpg"
+        imgPreview="/img/gamerzproject.jpg"
         title="Redesign Gaming Platform App"
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
       <CardProject
         linkProject="/projects/konnaku"
-        imgPreview="/img/kpreview.jpg"
+        imgPreview="/img/konnakuproject.jpg"
         title="Coffeeshop Landing Page"
         stackTitleOne="UI Design"
         stackTitleTwo="Web Design"
+      />
+      <CardProject
+        linkProject="/projects/infusion"
+        imgPreview="/img/infusionproject.jpg"
+        title="IV Theraphy Service App"
+        stackTitleOne="UI Design"
+        stackTitleTwo="Web App"
       />
     </div>
     <div class="flex items-center">

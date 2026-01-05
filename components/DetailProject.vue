@@ -2,7 +2,7 @@
   <div
     class="py-10 image-container flex justify-center items-center"
   >
-    <img class="rounded-xl" :src="imgProject" alt="" />
+    <img class="rounded-xl w-auto h-[250px] sm:h-[400px] md:h-[500px] object-cover" :src="imgProject" alt="" />
   </div>
   <div class="title-container text-center">
     <div class="text-4xl font-medium">{{ titleProject }}</div>

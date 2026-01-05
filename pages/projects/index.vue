@@ -14,7 +14,7 @@
       <CardProject
         class="animate__animated animate__fadeInLeft"
         linkProject="/projects/circlemoviez"
-        imgPreview="/img/cmpreview.jpg"
+        imgPreview="/img/circlemoviezproject.jpg"
         title="Movie Streaming App"
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
@@ -22,7 +22,7 @@
       <CardProject
         class="animate__animated animate__fadeInDown"
         linkProject="/projects/racingparts"
-        imgPreview="/img/rppreview.jpg"
+        imgPreview="/img/racingpartsproject.jpg"
         title="Racing Parts Landing Page"
         stackTitleOne="UI Design"
         stackTitleTwo="Web Design"
@@ -30,14 +30,14 @@
       <CardProject
       class="animate__animated animate__fadeInRight"
         linkProject="/projects/simgroup"
-        imgPreview="/img/sgpreview.jpg"
+        imgPreview="/img/simproject.jpg"
         title="Manufacturing Information System"
         stackTitleOne="Web App"
         stackTitleTwo="Laravel"
       />
       <CardProject
         linkProject="/projects/influencer"
-        imgPreview="/img/impreview.jpg"
+        imgPreview="/img/influencerproject.jpg"
         title="Influencer Marketplace App"
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
@@ -51,45 +51,52 @@
       />
       <CardProject
         linkProject="/projects/konnaku"
-        imgPreview="/img/kpreview.jpg"
+        imgPreview="/img/konnakuproject.jpg"
         title="Coffeeshop Landing Page"
         stackTitleOne="UI Design"
         stackTitleTwo="Web Design"
       />
       <CardProject
         linkProject="/projects/gabsi"
-        imgPreview="/img/gjpreview.jpg"
+        imgPreview="/img/gabsiproject.jpg"
         title="GABSI Jatim Information System Website"
         stackTitleOne="Web App"
         stackTitleTwo="Laravel"
       />
       <CardProject
         linkProject="/projects/kencan"
-        imgPreview="/img/dapreview.jpg"
+        imgPreview="/img/datingproject.jpg"
         title="Dating Platform App"
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
       <CardProject
         linkProject="/projects/propertiku"
-        imgPreview="/img/ppreview.jpg"
+        imgPreview="/img/propertyestateproject.jpg"
         title="Property Estate App"
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
       <CardProject
         linkProject="/projects/konsuldok"
-        imgPreview="/img/kdpreview.jpg"
+        imgPreview="/img/konsuldocproject.jpg"
         title="Doctor Consultation App"
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
       />
       <CardProject
         linkProject="/projects/cryptowallet"
-        imgPreview="/img/cwpreview.jpg"
+        imgPreview="/img/cryptoproject.jpg"
         title="Crypto Wallet App"
         stackTitleOne="UI Design"
         stackTitleTwo="Mobile App"
+      />
+      <CardProject
+        linkProject="/projects/infusion"
+        imgPreview="/img/infusionproject.jpg"
+        title="IV Theraphy Service App"
+        stackTitleOne="UI Design"
+        stackTitleTwo="Web App"
       />
     </div>
   </section>

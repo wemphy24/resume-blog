@@ -1,7 +1,7 @@
 <template>
   <section class="max-w-screen-2xl mx-auto px-10 md:px-20">
     <DetailProject
-      imgProject="/img/rpproject.jpg"
+      imgProject="/img/racingpartsproject.jpg"
       titleProject="Racing Parts (Fiverr Project)"
       subTitleProject="Racing Parts Landing Page"
       titleStackOne="UI Design"

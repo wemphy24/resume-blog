@@ -1,7 +1,7 @@
 <template>
   <section class="max-w-screen-2xl mx-auto px-10 md:px-20">
     <DetailProject
-      imgProject="/img/daproject.jpg"
+      imgProject="/img/datingproject.jpg"
       titleProject="Kencan App (Client Project)"
       subTitleProject="Dating Platform App"
       titleStackOne="UI Design"

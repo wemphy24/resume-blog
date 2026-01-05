@@ -1,7 +1,7 @@
 <template>
   <section class="max-w-screen-2xl mx-auto px-10 md:px-20">
     <DetailProject
-      imgProject="/img/improject.jpg"
+      imgProject="/img/influencerproject.jpg"
       titleProject="Influencer Market (Fiverr Project)"
       subTitleProject="Influencer Marketplace App"
       titleStackOne="UI Design"

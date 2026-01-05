@@ -1,7 +1,7 @@
 <template>
   <section class="max-w-screen-2xl mx-auto px-10 md:px-20">
     <DetailProject
-      imgProject="/img/gproject.jpg"
+      imgProject="/img/gamerzproject.jpg"
       titleProject="Gamerz (Fiverr Project)"
       subTitleProject="Gaming Platform App"
       titleStackOne="UI Design"

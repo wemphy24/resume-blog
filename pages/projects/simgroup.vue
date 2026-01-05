@@ -1,7 +1,7 @@
 <template>
   <section class="max-w-screen-2xl mx-auto px-10 md:px-20">
     <DetailProject
-      imgProject="/img/sgproject.jpg"
+      imgProject="/img/simproject.jpg"
       titleProject="SIM Group (Company Project)"
       subTitleProject="Manufacturing Information System"
       titleStackOne="Web App"

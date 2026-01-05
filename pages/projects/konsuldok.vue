@@ -1,7 +1,7 @@
 <template>
   <section class="max-w-screen-2xl mx-auto px-10 md:px-20">
     <DetailProject
-      imgProject="/img/kdproject.jpg"
+      imgProject="/img/konsuldocproject.jpg"
       titleProject="Konsul Dok (Client Project)"
       subTitleProject="Doctor Consultation App"
       titleStackOne="UI Design"

@@ -1,7 +1,7 @@
 <template>
   <section class="max-w-screen-2xl mx-auto px-10 md:px-20">
     <DetailProject
-      imgProject="/img/pproject.jpg"
+      imgProject="/img/propertyestateproject.jpg"
       titleProject="Propertiku (Fiverr Project)"
       subTitleProject="Property Estate App"
       titleStackOne="UI Design"
