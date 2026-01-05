@@ -1,9 +1,5 @@
 <template>
   <header class="shadow-md bg-[#f5f5f5] max-w-screen-2xl mx-auto">
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-    />
     <nav
       class="mx-auto p-8 block text-center lg:flex justify-between px-10 md:px-20"
     >
@@ -12,32 +8,25 @@
         to="/"
         >Wemphy Stephian</NuxtLink
       >
-      <ul
+      <div
         class="mt-10 lg:mt-0 flex gap-6 items-center justify-center animate__animated animate__lightSpeedInRight"
       >
-        <li>
           <NuxtLink
             class="font-medium text-xl text-neutral-500 hover:text-black"
             to="/"
             >Home</NuxtLink
           >
-        </li>
-        <li>
           <NuxtLink
             class="font-medium text-xl text-neutral-500 hover:text-black"
             to="/projects"
             >Projects</NuxtLink
-          >
-        </li>
-
-        <li>
+          > 
           <NuxtLink
             class="font-medium text-xl text-neutral-500 hover:text-black"
             to="/about"
             >About</NuxtLink
           >
-        </li>
-      </ul>
+      </div>
     </nav>
   </header>
 
