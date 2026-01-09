@@ -126,13 +126,7 @@
         stackTitleOne="UI Design"
         stackTitleTwo="Web Design"
       />
-      <CardProject
-        linkProject="/projects/infusion"
-        imgPreview="/img/infusionproject.jpg"
-        title="IV Theraphy Service App"
-        stackTitleOne="UI Design"
-        stackTitleTwo="Web App"
-      />
+     
     </div>
     <div class="flex items-center">
       <NuxtLink
